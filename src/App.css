@@ -6,7 +6,7 @@ body {
     margin: 0;
 }
 
-div {
+.square {
     width: 100px;
     height: 100px;
     background: black;

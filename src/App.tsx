@@ -1,11 +1,9 @@
 import './App.css'
 
-function App() {
+export const App = () => {
   return (
-    <div>
-
-    </div>
+    <div className="square">
+</div>
   )
 }
 
-export default App
